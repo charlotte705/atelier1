@@ -52,3 +52,6 @@ imc
 donnees<- data.frame(tailles,poids,imc)
 
 
+x<-seq(from=0,to=10^6,by=1)
+x
+x[10000]#on demande quelle valeur est en position 10 000
